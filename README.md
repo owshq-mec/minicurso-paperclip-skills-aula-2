@@ -1,4 +1,4 @@
-# minicurso-skills-aula-2
+# minicurso-paperclip-skills-aula-2
 
 Bônus exclusivo de quem fez a **Aula 2** do Mini-curso (Engenharia de Dados Academy): a skill que instala o Paperclip + um **starter pack de skills** pra você montar sua empresa digital com um "time" pronto no dia 1.
 
